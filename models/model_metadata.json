@@ -1,0 +1,16 @@
+{
+    "model_name": "Random Forest",
+    "features": [
+        "N",
+        "P",
+        "K",
+        "temperature",
+        "humidity",
+        "ph",
+        "rainfall"
+    ],
+    "target": "label",
+    "random_state": 42,
+    "test_size": 0.2,
+    "note": "Baseline benchmark only; evaluate on additional data before claiming real-world generalization."
+}

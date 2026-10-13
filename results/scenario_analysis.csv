@@ -1,0 +1,10 @@
+water_limit_m3,budget_limit_rupees,status,profit_rupees,water_used_m3,budget_used_rupees,selected_crops
+30000,300000,Feasible,184000.0,30000.0,276000.0,"chickpea, grapes"
+30000,400000,Feasible,184000.0,30000.0,276000.0,"chickpea, grapes"
+30000,500000,Feasible,184000.0,30000.0,276000.0,"chickpea, grapes"
+40000,300000,Feasible,200000.0,40000.0,300000.0,watermelon
+40000,400000,Feasible,232000.0,40000.0,388000.0,"chickpea, grapes"
+40000,500000,Feasible,232000.0,40000.0,388000.0,"chickpea, grapes"
+50000,300000,Feasible,200000.0,40000.0,300000.0,watermelon
+50000,400000,Feasible,250000.00000000003,48333.33333333334,400000.0,"watermelon, papaya"
+50000,500000,Feasible,280000.0,50000.0,500000.0,grapes

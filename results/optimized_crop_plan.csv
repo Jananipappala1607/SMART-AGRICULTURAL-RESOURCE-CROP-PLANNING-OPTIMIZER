@@ -1,0 +1,2 @@
+crop,avg_nitrogen,avg_phosphorus,avg_potassium,avg_temperature,avg_humidity,avg_ph,avg_rainfall,yield_tonnes_per_hectare,water_m3_per_hectare,cost_rupees_per_hectare,price_rupees_per_tonne,water,cost,profit,allocated_hectares,allocated_water_m3,allocated_cost_rupees,estimated_profit_rupees
+grapes,23.18,132.53,200.11,23.84957512005,81.8752275212,6.025936681099999,69.611828886,,,,,5000,50000,28000,10.0,50000.0,500000.0,280000.0

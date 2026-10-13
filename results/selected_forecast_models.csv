@@ -1,0 +1,3 @@
+crop,test_years,test_start_year,test_end_year,baseline_MAE,random_forest_MAE,baseline_RMSE,random_forest_RMSE,selected_model,MAE_improvement_pct,selection_note
+Maize,10.0,2005.0,2014.0,0.7009691404293822,0.9264079875980288,0.9012878268358606,1.0903183792937432,Previous-year baseline,-32.16102309875623,Baseline had lower rolling MAE
+Rice,10.0,2005.0,2014.0,0.2688083027494669,0.1880872502712073,0.3151455484081216,0.2271011768904644,Random Forest,30.029225902851948,Random Forest reduced rolling MAE

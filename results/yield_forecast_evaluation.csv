@@ -1,0 +1,5 @@
+crop,model,training_records,testing_records,test_start_year,test_end_year,MAE,RMSE
+Rice,Previous-year baseline,11,6,2009,2014,0.25874721661446465,0.3186420816088828
+Rice,Random Forest,11,6,2009,2014,0.18138174197269827,0.20370683469023004
+Maize,Previous-year baseline,11,6,2009,2014,0.8142487537703756,1.04781070190842
+Maize,Random Forest,11,6,2009,2014,0.6415580456444375,0.8105637241327848

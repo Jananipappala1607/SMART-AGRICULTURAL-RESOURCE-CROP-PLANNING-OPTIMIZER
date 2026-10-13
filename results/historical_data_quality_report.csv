@@ -1,0 +1,9 @@
+Crop,crop_key,years_available,total_area,total_production,historical_weighted_yield,data_quality_note
+Banana,banana,12,587709.0,15041631.0,25.593671357763792,Suitable for initial historical analysis; verify units
+Coconut ,coconut,13,1332907.0,16806002260.0,12608.533273514206,Verify production units before comparison
+Grapes,grapes,5,1194.0,27734.0,23.22780569514238,Limited historical coverage; Short time series; interpret cautiously
+Maize,maize,18,2982670.0,18527379.0,6.211675780424922,Suitable for initial historical analysis; verify units
+Mango,mango,5,1253920.0,8253919.0,6.582492503508996,Limited historical coverage; Short time series; interpret cautiously
+Orange,orange,2,67138.0,955677.0,14.234516965057049,Very limited historical coverage; Short time series; interpret cautiously
+Papaya,papaya,5,26535.0,2700821.0,101.78334275485209,Limited historical coverage; Short time series; interpret cautiously
+Rice,rice,18,46548311.0,143742455.0,3.088027297059178,Suitable for initial historical analysis; verify units
